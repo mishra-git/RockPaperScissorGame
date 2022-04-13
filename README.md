@@ -69,7 +69,7 @@ This game is created to reinforce the learning per BESE program in areas of C# g
     - I have explored the Inheritance a little 
     - Polymorphism and Interfaces are somethign I have been thinking to implement but my head is not going to the right direction as of now 
     
-    **Any Review from the SME's would be highly appreciated. This will help me keep track and also allow me to think it more on the conectps covered
+    **Any Review from the SME's would be highly appreciated. This will help me keep track and also allow me to think it more on the conectps covered**
     
     
 
