@@ -5,7 +5,8 @@ This game is created to reinforce the learning per BESE program in areas of C# g
 - Public class  Player
 
   **Has two private properties**
-   private  string _playerName;
+   private  string _playerName
+   
    private string _playerChoice;
   
  **Has public methods as** 
